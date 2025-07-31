@@ -2,7 +2,7 @@
 
 ```css
 :root {
-    --text-color: #fdc7f6;
+    --text-color: #f8c9f2;
     --card-front-color: #8000bb;
     --card-back-color: #hsl(0, 100%, 73%);
 }
